@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(181, 237, 251);
+}
+
+.work {
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.CLASSWORK {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+    padding: 15px;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.button {
+    background-color: rgb(68, 96, 236);
+    border-radius: 8px;
+    padding: 8px 15px;
+    cursor: pointer;
+    transition: 0.3s;
+    display: inline-block;
+}
+
+.button:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(68, 96, 236);
+}
+
+
+.design-1 {
+    justify-content: space-between;
+}
+
+.design-2 {
+    justify-content: space-between;
+}
+.left-group {
+    display: flex;
+    align-items: center;
+}
+
+.design-3 {
+    justify-content: space-between;
+}
+.right-group {
+    display: flex;
+    align-items: center;
+}
